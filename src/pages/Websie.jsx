@@ -1,7 +1,8 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Websie = () => {
-  return <div>Websie</div>;
+  return <Main>Today</Main>;
 };
 
 export default Websie;

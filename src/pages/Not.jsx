@@ -1,7 +1,8 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Not = () => {
-  return <div>Not</div>;
+  return <Main>Today</Main>;
 };
 
 export default Not;
